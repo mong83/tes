@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/clouddance-profile-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/contract-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-page-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payment-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/settlement-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/star-rating-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/talent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tes-bff-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-service-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/백업/star-rating-service" vcs="Git" />
+  </component>
+</project>

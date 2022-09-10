@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/contract-service/contract-service.iml" filepath="$PROJECT_DIR$/contract-service/contract-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-page-service/mypage.iml" filepath="$PROJECT_DIR$/my-page-service/mypage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/payment.iml" filepath="$PROJECT_DIR$/payment-service/payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/settlement-service/settlement.iml" filepath="$PROJECT_DIR$/settlement-service/settlement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star-rating-service/star-rating.iml" filepath="$PROJECT_DIR$/star-rating-service/star-rating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/talent/talent.iml" filepath="$PROJECT_DIR$/talent/talent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tes.iml" filepath="$PROJECT_DIR$/.idea/tes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tes-bff-service/tes-bff-service.iml" filepath="$PROJECT_DIR$/tes-bff-service/tes-bff-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/userservice.iml" filepath="$PROJECT_DIR$/user-service/userservice.iml" />
+    </modules>
+  </component>
+</project>
